@@ -1,5 +1,6 @@
 Assignment 2 - Part B
-Object-Oriented To-Do List
+Object-Oriented To-Do List:
+
 This project is an object-oriented version of my To-Do List application. It was developed using JavaScript classes to manage tasks in a more organized and reusable way. The program allows users to add, complete, delete, and display tasks while also validating user input.
 
 Features
